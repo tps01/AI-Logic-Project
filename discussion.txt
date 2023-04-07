@@ -1,0 +1,12 @@
+Tom Sullivan and Jack Hoy
+11/04/2022
+Discussion Log for lightup project: 
+We discussed the general ideas for the problem constraints with Kyle, as well as the idea of using absolute values on our constraints. 
+The absolute values are to make sure that no unexpected behavior occurs due to python passing variables as references.
+Additionally, Tom went to office hours to discuss the cases for the number tiles, and talked to you, Kyle, and Tristan about those cases.
+
+We used this website to understand how to use the itertools combinations function:
+https://www.geeksforgeeks.org/itertools-combinations-module-python-print-possible-combinations/ 
+Our Combos() function follows the same format from that article.
+
+
